@@ -97,7 +97,7 @@ http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/2097262358?ticket
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/431714408?ticket=AF4C9EB54D27F8096EDB4E436EA7B1862F90052D&profile=pass
 #EXTINF:0 tvg-id="cnn" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/RCd9AM9.png",CNN (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/871835284?ticket=A6B6EBF51E6FAFBF3EC27293EF13FB32928D93D1&profile=pass
-#EXTINF:-1  group-title="Quốc Tế (HD)" logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png" tvg-id="cnbc",CNBC
+#EXTINF:-1  group-title="Quốc Tế (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/CNBC.png" tvg-id="cnbc",CNBC
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1921166414?ticket=0C5FD7BB446BFC8EA0F62532483FC58E57EDA915&profile=pass
 #EXTINF:0 tvg-id="davinci" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/t9fzARL.png",Da Vinci (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1301397557?ticket=C856CBE0E3C9BFFBC177B38DBF5E20E6E881AA66&profile=pass
@@ -239,6 +239,11 @@ http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/967231612?ticket=
 #EXTINF:-1 group-title="Địa phương (HD)" logo="https://i.imgur.com/NlOwltd.png" tvg-id="thanhhoa",TTV | Thanh Hóa
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/315824132?ticket=0337DD26875A3407EBF8633064E61282C19A9165&profile=pass
 #EXTINF:-1 group-title="Địa phương (HD)" logo="https://i.imgur.com/6RPgRE7.png" tvg-id="tuyenquang",TTV | Tuyên Quang (HD 8Mbps)
+
+
+
+
+
 
 
 
