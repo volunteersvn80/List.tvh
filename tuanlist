@@ -129,7 +129,7 @@ http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/372571813?ticket=
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/758744317?ticket=45580BAEC0F4E06AB2DD1CAD8E87AAE04787C2B1&profile=pass
 #EXTINF:0 tvg-id="warnertvhd" group-title="Quốc Tế (HD)" tvg-logo="https://i.imgur.com/B9AVT2i.png",WBTV (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/mux/36fb775949090902de8c658aacd8ad22?ticket=1C7A04637F36AF79AFCCD2CCD9FF41CEB21A9CFE
-#EXTINF:-1  group-title="Quốc Tế (HD) logo="https://i.imgur.com/DZNTBjC.png" tvg-id="0c83df27a6d4f951d2a86adf4c976b4a",Arirang
+#EXTINF:-1  group-title="Quốc Tế (HD)" logo="https://i.imgur.com/DZNTBjC.png" tvg-id="0c83df27a6d4f951d2a86adf4c976b4a",Arirang
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/668959500?ticket=41601B7B5D73F471E9DFD76CBFD405B2221C9EB6&profile=pass
 
 #-------------------Địa phương-------------------#
@@ -164,7 +164,7 @@ http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1220346953?ticket
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/2138932288?ticket=489C2B8DD41C1F1070081CAC5C1F0CACD7D98EF6&profile=pass
 #EXTINF:0 tvg-id="danang2" group-title="Địa phương (HD)" tvg-logo="https://raw.githubusercontent.com/ntd249/logochannel/refs/heads/main/DNRT2_DaNang.png",ĐNRT2 | Đà Nẵng (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1847597347?ticket=A4E578E9CFEF4BB48D51670FB0546AB0EB72F1B6&profile=pass
-#EXTINF:-1 group-title="Địa phương (HD) logo="https://i.imgur.com/Rky1N5S.png" tvg-id="be823c42cdf02e8fb4b53872d46cd615",ĐTV | Điện Biên (HD 8Mbps)
+#EXTINF:-1 group-title="Địa phương (HD)" tv-logo="https://i.imgur.com/Rky1N5S.png" tvg-id="be823c42cdf02e8fb4b53872d46cd615",ĐTV | Điện Biên (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1111261886?ticket=DC17EF0A2EB492E6C51F8EEEBBB9B336624D21B9&profile=pass
 #EXTINF:0 tvg-id="anvienhd" group-title="Địa phương (HD)" tvg-logo="https://i.imgur.com/jeunb3Y.png",BTV9 B Channel (HD 8Mbps)
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/1032549444?ticket=E4A39767EC33F87FFE3D6450671E0A17D6FDA91B&profile=pass
@@ -239,8 +239,6 @@ http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/967231612?ticket=
 #EXTINF:-1 group-title="Địa phương (HD)" logo="https://i.imgur.com/NlOwltd.png" tvg-id="thanhhoa",TTV | Thanh Hóa
 http://minhtuan114.duckdns.org:9981/tvheadend/stream/channelid/315824132?ticket=0337DD26875A3407EBF8633064E61282C19A9165&profile=pass
 #EXTINF:-1 group-title="Địa phương (HD)" logo="https://i.imgur.com/6RPgRE7.png" tvg-id="tuyenquang",TTV | Tuyên Quang (HD 8Mbps)
-
-
 
 
 
